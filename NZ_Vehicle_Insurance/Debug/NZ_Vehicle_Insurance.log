@@ -1,0 +1,6 @@
+﻿  NZ_Vehicle_Insurance.cpp
+C:\Users\adam\source\repos\NZ_Vehicle_Insurance\NZ_Vehicle_Insurance\NZ_Vehicle_Insurance.cpp(1010,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\adam\source\repos\NZ_Vehicle_Insurance\NZ_Vehicle_Insurance\NZ_Vehicle_Insurance.cpp(1015,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\adam\source\repos\NZ_Vehicle_Insurance\NZ_Vehicle_Insurance\NZ_Vehicle_Insurance.cpp(1031,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\adam\source\repos\NZ_Vehicle_Insurance\NZ_Vehicle_Insurance\NZ_Vehicle_Insurance.cpp(1036,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  NZ_Vehicle_Insurance.vcxproj -> C:\Users\adam\source\repos\NZ_Vehicle_Insurance\Debug\NZ_Vehicle_Insurance.exe
